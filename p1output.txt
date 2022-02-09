@@ -1,1 +1,6 @@
+Base=
+4
+height=
+6
+the area is 12.000000
 
