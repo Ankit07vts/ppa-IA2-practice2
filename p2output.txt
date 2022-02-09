@@ -1,1 +1,18 @@
-
+~/ppa-IA2-practice2$ gcc -g p2original.c
+~/ppa-IA2-practice2$ ./a.out
+enter the lenght of the side
+2
+enter the lenght of the side
+3
+enter the lenght of the side
+9
+the triangle is scalene
+~/ppa-IA2-practice2$ ./a.out
+enter the lenght of the side
+5
+enter the lenght of the side
+5
+enter the lenght of the side
+6
+the triangle is not scalene
+~/ppa-IA2-practice
