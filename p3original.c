@@ -21,16 +21,14 @@ int is_composite(int n)
     
     if (n % i == 0) 
     {
-      c = 1;
+      c=c+1;
       break;
+      
     }
-  }
-    return c;  
-  }
-}
-  
-void output(int n,int composite)
-{
+    
+      return c;
+    lse        }}     }
+v output (int n,int composite){
  
   if(composite==0)
   printf("The number %d is prime number",n);

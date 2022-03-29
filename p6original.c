@@ -1,9 +1,9 @@
 #include <stdio.h>
 
- input_string(char *a)
+void input_string(char *str)
 {
   printf("Enter the string:\n");
-  scanf("%s", a);
+  scanf("%s", str);
 }
 
 void str_reverse(char *str, char *rev_str)
